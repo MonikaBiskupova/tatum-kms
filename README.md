@@ -87,6 +87,7 @@ This method does not add wallet to the managed wallets by Tatum KMS.
     }
   ```   
   
+  
 * `storemanagedprivatekey chain` - store private key of a specific blockchain account and adds it to the managed wallets.
  This call echos signatureHash of the wallet to be used in API requests to the Tatum API.
  
